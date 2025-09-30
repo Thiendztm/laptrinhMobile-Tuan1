@@ -1,2 +1,2 @@
-1-Sau khi học xong học phần này, em mong muốn có thể tự làm 1 app ứng dụng mobile từ cơ bản đến nâng cao và đẩy nó lên được các appstore. 
-2-Theo em trong tương lai sau này cụ thể 10 năm tới, lập trình mobile sẽ càng ngày phát triển và phổ biến, vì các điện thoại thông minh ngày ngay ai ai cũng phải sở hữu ít nhất 1 cái và các mảng thương mại điện tử, trí tuệ nhân tạo đều cần smartphone nên tương lai sẽ càng ngày phát triển
+1.  Sau khi học xong học phần này, em mong muốn có thể tự làm 1 app ứng dụng mobile từ cơ bản đến nâng cao và đẩy nó lên được các appstore. 
+2.  Theo em trong tương lai sau này cụ thể 10 năm tới, lập trình mobile sẽ càng ngày phát triển và phổ biến, vì các điện thoại thông minh ngày ngay ai ai cũng phải sở hữu ít nhất 1 cái và các mảng thương mại điện tử, trí tuệ nhân tạo đều cần smartphone nên tương lai sẽ càng ngày phát triển.
